@@ -1,0 +1,8 @@
+Caja Flexible -> Flexbox
+
+Exsiten 2 ejes de flexbox (el principl flex-direction)
+
+flex-direction: row, row-reverse, column, column-reverse
+
+Flexbox es especialmente diseñado para alinear elementos en tus layouts, 
+no añade animaciones o efectos espaciales, es una tecnologia utilizada para el diseño del sitio web y es un sustituto de floats o display:table-cell, entre otros 
